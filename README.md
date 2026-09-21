@@ -439,50 +439,6 @@ The broader objective is to move beyond simply computing statistics and toward u
 
 ## 14. Suggested GitHub Repository Structure
 
-```text
-MA563-Statistical-Computation-and-Simulation/
-│
-├── README.md
-│
-├── syllabus/
-│   └── course-plan.pdf
-│
-├── module-01-random-number-generation/
-│   ├── lectures/
-│   ├── examples/
-│   ├── practice/
-│   └── lab/
-│
-├── module-02-monte-carlo/
-│   ├── lectures/
-│   ├── examples/
-│   ├── practice/
-│   └── lab/
-│
-├── module-03-resampling/
-│   ├── lectures/
-│   ├── examples/
-│   ├── practice/
-│   └── lab/
-│
-├── module-04-em/
-│   ├── lectures/
-│   ├── examples/
-│   ├── practice/
-│   └── lab/
-│
-├── module-05-bayesian-mcmc/
-│   ├── lectures/
-│   ├── examples/
-│   ├── practice/
-│   └── lab/
-│
-├── assignments/
-├── datasets/
-└── resources/
-```
-
----
 
 ## 15. General Instructions for Students
 
