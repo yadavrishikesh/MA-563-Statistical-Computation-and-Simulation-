@@ -504,5 +504,7 @@ IIT Mandi
 
 **Email:** rishikesh@iitmandi.ac.in
 
-**Teaching Assistant:** Vedant Vibhor  
-**Email:** D24028@students.iitmandi.ac.in
+**Teaching Assistant:** Vedant Vibhor and  Kamana Mishra
+**Email:** D24028@students.iitmandi.ac.in; 
+D22040@students.iitmandi.ac.in
+
