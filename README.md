@@ -294,6 +294,10 @@ The emphasis is on:
 1. Correct implementation
 2. Clear understanding of the underlying statistical concepts
 
+Password for the lab exams are: 
+- MA563_Lab_Exam_1.zip : lab#1@MA563
+- MA563_Lab_Exam_2.zip : ma563@lab2
+
 ### Laboratory Tests
 
 Approximately **five laboratory tests** will be conducted during the semester, with one lab test for each unit/module.
