@@ -146,8 +146,7 @@ The course is organized into **5 modules**, covering **42 lectures** together wi
 | Module 1 | Random Number Generation & Simulation Foundations | 8 |
 | Module 2 | Monte Carlo Methods | 8 |
 | Module 3 | Resampling & Simulation-Based Statistical Inference | 10 |
-| Module 4 | Iterative Computational Algorithms (EM) | 6 |
-| Module 5 | Bayesian Computation & MCMC | 10 |
+| Module 4 | Bayesian Computation & MCMC | 10 |
 | **Total** | | **42** |
 
 Each module is paired with hands-on computational work applying the week's ideas to real and simulated data.
@@ -232,31 +231,8 @@ Each module is paired with hands-on computational work applying the week's ideas
 
 ---
 
-# Module 4 — Iterative Computational Algorithms (EM)
 
-**6 lectures**
-
-### Topics
-
-- Stochastic approximation ideas
-- Likelihood-based computation
-- Gaussian mixture models
-- Expectation-Maximization (EM) algorithm
-- Simulation-based interpretation of EM
-
-### Where You Will See This
-
-**Customer segmentation:** identifying hidden customer types using Gaussian mixture models.
-
-**Speech recognition:** estimating hidden acoustic states from noisy audio.
-
-**Image segmentation:** separating regions when pixel labels are unobserved.
-
-**Population genetics:** inferring allele frequencies from incomplete genotype data.
-
----
-
-# Module 5 — Bayesian Computation & MCMC
+# Module 4 — Bayesian Computation & MCMC
 
 **10 lectures**
 
@@ -300,7 +276,7 @@ Password for the lab exams are:
 
 ### Laboratory Tests
 
-Approximately **five laboratory tests** will be conducted during the semester, with one lab test for each unit/module.
+Approximately **four laboratory tests** will be conducted during the semester, with one lab test for each unit/module.
 
 The laboratory component consists of:
 
@@ -342,7 +318,7 @@ Students with little or no prior programming experience are strongly encouraged 
 
 | Component | Weight |
 |---|---:|
-| Quizzes (best of planned) | 20% |
+| Quizzes (best of 3 planned) | 20% |
 | Laboratory Evaluation | 30% |
 | Mid-Semester Exam | 20% |
 | Final Exam | 30% |
@@ -441,10 +417,7 @@ The broader objective is to move beyond simply computing statistics and toward u
 
 ---
 
-## 14. Suggested GitHub Repository Structure
-
-
-## 15. General Instructions for Students
+## 14. General Instructions for Students
 
 1. Attend lectures regularly.
 2. Work through the computational examples discussed in class.
@@ -459,7 +432,7 @@ The broader objective is to move beyond simply computing statistics and toward u
 
 ---
 
-## 16. Course Philosophy
+## 15. Course Philosophy
 
 Statistical computation is not just about writing code.
 
@@ -485,7 +458,7 @@ The central idea of this course is:
 
 ---
 
-## 17. Final Message
+## 16. Final Message
 
 Every field you may work in — finance, biology, engineering, AI, policy, climate science, medicine, or data science — eventually encounters problems for which there is no clean formula.
 
