@@ -273,6 +273,7 @@ The emphasis is on:
 Password for the lab exams are: 
 - MA563_Lab_Exam_1.zip : lab#1@MA563
 - MA563_Lab_Exam_2.zip : ma563@lab2
+- MA563_Lab_Exam_3.zip : MA563Lab3_
 
 ### Laboratory Tests
 
